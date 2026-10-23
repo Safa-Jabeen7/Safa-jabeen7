@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there, I'm Safa Jabeen 👋
 
-<!--
-**Safa-Jabeen7/Safa-jabeen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Software Engineering Student @ Virtual University of Pakistan
+📍 Kotli, Azad Jammu & Kashmir
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **C++ and Data Structures**
+- 💻 Passionate about **Software Development**
+- 🚀 Goal: To become a skilled Software Engineer
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/safa-jabeen7)
+
+### 🛠️ Tech Stack
+`C++` `HTML` `CSS` `Git & GitHub`
+
+### ✨ About Me
+A motivated learner from AJK who loves problem solving and building things with code.
