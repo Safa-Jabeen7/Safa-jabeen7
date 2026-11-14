@@ -14,4 +14,4 @@ Hi there, I'm Safa Jabeen 👋
 `C++` `HTML` `CSS` `Git & GitHub`
 
 ### ✨ About Me
-A motivated learner from AJK who loves problem solving and building things with code.
+A motivated learner from AJK who loves problem solving and building things with the code.
